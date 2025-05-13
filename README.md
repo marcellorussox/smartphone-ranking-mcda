@@ -1,4 +1,3 @@
-```markdown
 # Smartphone Ranking with ELECTRE-III 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
@@ -45,6 +44,7 @@ smartphone-ranking-mcda/
 │   ├── report.md
 │   └── methodology.md
 └── README.md
+```
 
 ---
 
