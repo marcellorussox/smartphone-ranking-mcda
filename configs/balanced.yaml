@@ -1,0 +1,26 @@
+criteria:
+  Battery:
+    direction: max
+    q: 500
+    v: 3000
+    weight: 0.25
+  Camera:
+    direction: max
+    q: 0
+    v: 150
+    weight: 0.25
+  Processor:
+    direction: max
+    q: 200000
+    v: 1500000
+    weight: 0.25
+  RAM:
+    direction: max
+    q: 4
+    v: 8
+    weight: 0.15
+  Weight:
+    direction: min
+    q: 10
+    v: 230
+    weight: 0.1
