@@ -11,7 +11,7 @@ criteria:
     weight: 0.0
   Processor:
     direction: max
-    q: 100000
+    q: 10000
     v: 1800000
     weight: 0.4
   RAM:

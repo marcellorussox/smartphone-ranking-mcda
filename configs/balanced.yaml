@@ -12,7 +12,7 @@ criteria:
   Processor:
     direction: max
     q: 200000
-    v: 1500000
+    v: 1400000
     weight: 0.25
   RAM:
     direction: max

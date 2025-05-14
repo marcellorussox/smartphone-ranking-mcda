@@ -22,5 +22,5 @@ criteria:
   Weight:
     direction: min
     q: 0
-    v: 220
+    v: 200
     weight: 0.5
